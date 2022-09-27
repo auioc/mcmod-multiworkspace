@@ -5,6 +5,7 @@ bin
 .classpath
 .project
 .vscode
+.favorites.json
 tmp
 
 out
