@@ -1,5 +1,6 @@
 rootProject.name='mcmod-multiworkspace'
 
 include 'arnicalib'
+include 'hulsealib'
 
 include 'workspace'
